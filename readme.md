@@ -57,3 +57,6 @@ return [
    ],
 ];
 ```
+
+# Todo
+- [ ] Add staging database "delete-all-tables" bevore clone live database
